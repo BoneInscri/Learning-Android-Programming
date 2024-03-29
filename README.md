@@ -217,3 +217,11 @@ File->Settings->Apperance & Behavior->System Settings->**HTTP Proxy**
 
 
 
+
+
+**Newbud**
+
+大创APP设计效果
+
+<img src="README.assets/image-20240329195938762.png" alt="image-20240329195938762" style="zoom: 67%;" />
+
