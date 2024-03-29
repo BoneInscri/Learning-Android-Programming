@@ -225,3 +225,10 @@ File->Settings->Apperance & Behavior->System Settings->**HTTP Proxy**
 
 <img src="README.assets/image-20240329195938762.png" alt="image-20240329195938762" style="zoom: 67%;" />
 
+**Reading_video**
+
+电子商务竞赛APP设计
+
+<img src="README.assets/image-20240329200606466.png" alt="image-20240329200606466" style="zoom: 67%;" />
+
+<img src="README.assets/image-20240329200540141.png" alt="image-20240329200540141" style="zoom:67%;" />

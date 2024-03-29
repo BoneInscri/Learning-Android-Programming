@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note>{&quot;ARInfo&quot;:{&quot;IsUseAR&quot;:false},&quot;Version&quot;:&quot;1.0.0&quot;,&quot;MakeupInfo&quot;:{&quot;IsUseMakeup&quot;:false},&quot;FaceliftInfo&quot;:{&quot;IsChangeEyeLift&quot;:false,&quot;IsChangeFacelift&quot;:false,&quot;IsChangePostureLift&quot;:false,&quot;IsChangeNose&quot;:false,&quot;IsChangeFaceChin&quot;:false,&quot;IsChangeMouth&quot;:false,&quot;IsChangeThinFace&quot;:false},&quot;BeautyInfo&quot;:{&quot;SwitchMedicatedAcne&quot;:false,&quot;IsAIBeauty&quot;:false,&quot;IsBrightEyes&quot;:false,&quot;IsSharpen&quot;:false,&quot;IsOldBeauty&quot;:false,&quot;IsReduceBlackEyes&quot;:false},&quot;HandlerInfo&quot;:{&quot;AppName&quot;:2},&quot;FilterInfo&quot;:{&quot;IsUseFilter&quot;:false}}</note>
+  <place/>
+  <categories/>
+</comment>

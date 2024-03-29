@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3796875" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2515" />
+        <entry key="app/src/main/res/drawable/bkg1.xml" value="0.2215" />
+        <entry key="app/src/main/res/drawable/bkg2.xml" value="0.2645" />
+        <entry key="app/src/main/res/drawable/bkg3.xml" value="0.2645" />
+        <entry key="app/src/main/res/drawable/bkg4.xml" value="0.266" />
+        <entry key="app/src/main/res/drawable/bkg5.xml" value="0.266" />
+        <entry key="app/src/main/res/drawable/bkg6.xml" value="0.266" />
+        <entry key="app/src/main/res/drawable/home_page.xml" value="0.352" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/like.xml" value="0.315" />
+        <entry key="app/src/main/res/drawable/search_bkg.xml" value="0.3135" />
+        <entry key="app/src/main/res/drawable/tab_home.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/tab_mine.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/tab_party.xml" value="0.295" />
+        <entry key="app/src/main/res/drawable/tab_reading.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/transparent.xml" value="0.2645" />
+        <entry key="app/src/main/res/drawable/user_bkg.xml" value="0.283" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/bottom_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/home_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/mine_page.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/party_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/reading_page.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1855" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.293" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.35052083333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
