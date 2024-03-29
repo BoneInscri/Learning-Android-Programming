@@ -201,3 +201,19 @@ File->Settings->Apperance & Behavior->System Settings->**HTTP Proxy**
 
 <img src="README.assets/image-20240329184759786.png" alt="image-20240329184759786" style="zoom: 67%;" />
 
+**Login**
+
+简易的登陆界面
+
+<img src="README.assets/image-20240329195207573.png" alt="image-20240329195207573" style="zoom: 67%;" />
+
+
+
+**Music_player**
+
+一个音乐播放器
+
+<img src="README.assets/image-20240329195617687.png" alt="image-20240329195617687" style="zoom:67%;" />
+
+
+
