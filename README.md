@@ -2,7 +2,7 @@
 
 这是一个记录学习安卓开发的仓库。
 
-将大二写的课程作业重新整理了出来,
+将大二写的课程作业重新整理了出来，打赢复活赛了。
 
 ### 环境配置
 
@@ -187,7 +187,7 @@ File->Settings->Apperance & Behavior->System Settings->**HTTP Proxy**
 
 ### 代码解释
 
-**Counter**
+**Calculator**
 
 一个计算器
 
