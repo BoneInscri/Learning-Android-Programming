@@ -192,3 +192,12 @@ File->Settings->Apperance & Behavior->System Settings->**HTTP Proxy**
 一个计算器
 
 <img src="README.assets/image-20240329183841600.png" alt="image-20240329183841600" style="zoom:67%;" />
+
+
+
+**Counter**
+
+一个计时器
+
+<img src="README.assets/image-20240329184759786.png" alt="image-20240329184759786" style="zoom: 67%;" />
+
